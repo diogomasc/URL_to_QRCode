@@ -65,3 +65,7 @@ Esta abordagem resultou em um código mais limpo, performático e sem dependênc
 ## Funcionamento (Print)
 
 Assim que o código QR for gerado, ele será exibido diretamente na interface do aplicativo, proporcionando uma visualização imediata. Além disso, você terá opções para baixar ou copiar o QR code conforme desejado.
+
+![image](https://github.com/user-attachments/assets/8f560c20-d4b0-4fb4-9379-f00aedc69346)
+![image](https://github.com/user-attachments/assets/bbc9319c-3356-40c1-a31a-87188f7e37dd)
+![image](https://github.com/user-attachments/assets/03617157-bda9-4034-8cd4-8a9bf804dfdd)
